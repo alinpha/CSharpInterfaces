@@ -1,0 +1,9 @@
+C:\Users\pha\Desktop\CSharpInterfaces\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+C:\Users\pha\Desktop\CSharpInterfaces\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+C:\Users\pha\Desktop\CSharpInterfaces\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+C:\Users\pha\Desktop\CSharpInterfaces\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.ClassLib.dll
+C:\Users\pha\Desktop\CSharpInterfaces\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.ClassLib.pdb
+C:\Users\pha\Desktop\CSharpInterfaces\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csprojAssemblyReference.cache
+C:\Users\pha\Desktop\CSharpInterfaces\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.CopyComplete
+C:\Users\pha\Desktop\CSharpInterfaces\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+C:\Users\pha\Desktop\CSharpInterfaces\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.pdb
